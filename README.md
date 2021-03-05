@@ -1,4 +1,4 @@
-# 3DTexture-for-Mist-Unity-HDRP
+# YOUTUBE VIDEO 3DTexture-for-Mist-Unity-HDRP
 Create 3D Texturing Script for Unity Density Volume
 
 Sample Video
